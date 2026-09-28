@@ -1,0 +1,8 @@
+{
+  "username": "rahulshettyacademy",
+  "password": "Learning@830$3mK2",
+  "userType": "Consultant",
+  "loginUrl": "https://rahulshettyacademy.com/loginpagePractise",
+  "expectedPageUrlAfterLogin": "angularpractice/shop",
+  "expectedPageTitle": "ProtoCommerce"
+}
